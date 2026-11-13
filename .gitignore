@@ -7,9 +7,6 @@ env/
 __pycache__/
 *.py[cod]
 
-# Imagem gerada pelo main.py
-arvores.png
-
 # Arquivos de editor / sistema
 .vscode/
 .idea/
