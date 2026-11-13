@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Imagem gerada pelo main.py
+arvores.png
+
+# Arquivos de editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Distribuição / build
+build/
+dist/
+*.egg-info/
